@@ -1,0 +1,72 @@
+{
+  "id": "4000376",
+  "name": "brusw.com",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "18615073",
+      "name": "jenkins",
+      "font_class": "jenkins",
+      "unicode": "e6cf",
+      "unicode_decimal": 59087
+    },
+    {
+      "icon_id": "1061079",
+      "name": "Blog",
+      "font_class": "blog",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "6902576",
+      "name": "grafana",
+      "font_class": "grafana",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "7711448",
+      "name": "tools-hardware",
+      "font_class": "tools",
+      "unicode": "e882",
+      "unicode_decimal": 59522
+    },
+    {
+      "icon_id": "8040218",
+      "name": "ts-图标_ftpserver",
+      "font_class": "ftp-server",
+      "unicode": "e71d",
+      "unicode_decimal": 59165
+    },
+    {
+      "icon_id": "10544505",
+      "name": "admin",
+      "font_class": "admin",
+      "unicode": "e7a1",
+      "unicode_decimal": 59297
+    },
+    {
+      "icon_id": "276222",
+      "name": "github-square",
+      "font_class": "github-square",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "348421",
+      "name": "dot-circle-o",
+      "font_class": "dot-circle-o",
+      "unicode": "ea86",
+      "unicode_decimal": 60038
+    },
+    {
+      "icon_id": "348441",
+      "name": "envelope-square",
+      "font_class": "envelope-square",
+      "unicode": "ea9a",
+      "unicode_decimal": 60058
+    }
+  ]
+}
